@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffc451;
+  background: #e5e900;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -61,7 +61,7 @@ h6 {
 }
 
 .back-to-top:hover i {
-  color: #ffc451;
+  color: #f9fd06;
 }
 
 .back-to-top.active {
@@ -88,7 +88,7 @@ h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #ffc451;
+  border: 6px solid #fbff00;
   border-top-color: #151515;
   border-bottom-color: #151515;
   border-radius: 50%;
@@ -145,7 +145,7 @@ h6 {
 }
 
 #header .logo a span {
-  color: #ffc451;
+  color: #e3e700;
 }
 
 #header .logo img {
@@ -163,11 +163,11 @@ h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  border: 2px solid #fffb00;
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
+  background: #fbff00;
   color: #343a40;
 }
 
